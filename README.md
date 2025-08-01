@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Asibur Rahman</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Web+Developer;Laravel+%7C+Livewire+%7C+TailwindCSS+Lover;Building+Fun+Web+Apps;Always+Learning+New+Tech!&center=true&width=600&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Web+Developer;Laravel+%7C+Livewire+%7C+Python+Lover;Building+Fun+Web+Apps;Always+Learning+New+Tech!&center=true&width=600&height=45" />
 </p>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=asibursproject&label=Profile%20views&color=0e75b6&style=flat" alt="asiburrahman" />
