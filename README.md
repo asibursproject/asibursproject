@@ -2,11 +2,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Web+Developer;Laravel+%7C+Livewire+%7C+TailwindCSS+Lover;Building+Fun+Web+Apps;Always+Learning+New+Tech!&center=true&width=600&height=45" />
 </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=asibursproject&label=Profile%20views&color=0e75b6&style=flat" alt="asiburrahman" />
+</p>
 
 <p align="center">
-  <a href="https://asibur.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-asibur.dev-blue?style=for-the-badge&logo=google-chrome" />
-  </a>
   <a href="https://www.youtube.com/@asibur" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-Profile-red?style=for-the-badge&logo=youtube" />
   </a>
