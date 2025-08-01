@@ -39,6 +39,8 @@
 
 ---
 
+<!--
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -49,7 +51,6 @@
 
 ---
 
-<!--
 ### 🧩 Fun Projects
 
 - ✅ [fdchecklist](https://github.com/asiburrahman/fdchecklist): Your learning progress visualizer.
