@@ -73,8 +73,3 @@
 - 💬 Reach me on [Telegram](https://t.me/asiburYE)
 - 🎥 Check out my dev content on [YouTube](https://www.youtube.com/@asibur) 
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asibursproject&theme=darkhub&no-bg=true&margin-w=15&margin-h=15" />
-</p>
